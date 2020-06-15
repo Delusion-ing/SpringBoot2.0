@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+spring:
+  jackson:
+    data-format: yyyy-MM-dd HHmmss
+    time-zone: GMT+8
